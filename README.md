@@ -1,7 +1,8 @@
 ## Abstract
 
-You can start to develop Rails4.1+ with TDD more quickly
-And you can check coding standard automatically to include rubocop
+You can start to develop Rails4.1+ with TDD more quickly.
+
+You can check coding standard automatically to include rubocop.
 
 ## Including gems
 
@@ -25,6 +26,12 @@ And you can check coding standard automatically to include rubocop
   * carrierwave
   * devise
   * rails_config
+
+if you want to use some optional gems, you must answer **yes** like following question as using `rails new`.
+
+```
+Would you like to use gem name?
+```
 
 ## Usage
 

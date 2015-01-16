@@ -29,7 +29,7 @@ if yes? "Would you like to use devise?"
   included_devise = true
 end
 
-if yes? "Would you like to use rails_config"
+if yes? "Would you like to use rails_config?"
   gem "rails_config"
   included_rails_config = true
 end
